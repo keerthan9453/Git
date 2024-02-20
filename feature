@@ -1,5 +1,2 @@
 
-Conflict 1
->>>>>>> conflict
-
-Feature 1
+Feature 2
